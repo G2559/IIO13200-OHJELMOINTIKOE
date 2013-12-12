@@ -1,0 +1,44 @@
+﻿body   
+{
+    width: 550px;
+    margin: 0 auto;
+    position: relative; 
+    font-size: .80em;
+    font-family: "Candara", "Helvetica Neue", "Lucida Grande", "Segoe UI", Arial, Helvetica, Verdana, sans-serif;
+    padding: 0px;
+    background-image: url('images/coding.jpg');
+}
+
+#sisalto {
+    width: 500px;
+    padding-left: 20px;
+    padding-top: 10px;
+}
+
+#footer {
+    clear: both;
+}
+
+h1 {
+    font-size: 30px;
+    color:aqua;
+}
+
+h3 {
+    color:aqua;
+}
+
+h5, h6
+{
+    margin: 2px;
+    font-size: 1em;
+}
+
+.puttonen {
+    margin: 0 auto;
+}
+#nelio {
+    border-radius: 10px;
+    background: #fff;
+    height: 400px;
+}

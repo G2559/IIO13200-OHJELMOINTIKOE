@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Tunnit>
+  <Tunti>
+    <id>1</id>
+    <koodaaja>Linus</koodaaja>
+    <paivamaara>10/12/2013</paivamaara>
+    <tuntimaara>3</tuntimaara>
+    <minuutit>4</minuutit>
+  </Tunti>
+  <Tunti>
+    <id>2</id>
+    <koodaaja>Linus</koodaaja>
+    <paivamaara>12/12/2012</paivamaara>
+    <tuntimaara>4</tuntimaara>
+    <minuutit>5</minuutit>
+  </Tunti>
+</Tunnit>
